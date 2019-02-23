@@ -1,0 +1,40 @@
+.homeBtn {
+  width: 80%;
+  height: 120px;
+  border: solid;
+  font-size: 25px;
+  bottom: 0;
+  margin-top: 2rem;
+}
+
+.homeBox {
+  height: 100%;
+  padding-bottom: 50px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%;
+  text-align: center;
+}
+
+body {
+  height: 100%;
+  background: url("./components/layouts/images/1.jpg") no-repeat center center
+    fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.spinner-border {
+  margin-left: 50%;
+}
+
+.postbody {
+  word-break: break-all;
+}
